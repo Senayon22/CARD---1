@@ -10,7 +10,6 @@
 }
 
 .post{
-    display: flex;
     margin-left: 40px;
     margin-right: 100px;
     padding: 10px;
@@ -23,7 +22,6 @@ width:200px;
 height:300px;
 padding-left: 40px;
 padding-right: 60px;
-box-sizing: border-box;
 border-radius: 10px;
 }
 
@@ -31,15 +29,22 @@ border-radius: 10px;
 #picture-1{
     padding-left: 10px;
     padding-right: 10px;
+    display: block;
+    width: 100%;
     
 }
 
 #picture-2{
 padding-left: 10px;
 padding-right: 10px;
+display: block;
+width: 100%;
 }
 
 #picture-3{
     padding-left: 10px;
     padding-right: 10px;
+    display: block;
+    width: 100%;
+    
 }
